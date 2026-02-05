@@ -10,7 +10,7 @@ const About = () => {
                 <div className="glass-card p-6 sm:p-8 md:p-12 animate-fade-in-up animate-delay-200">
                     <p className="text-slate-300 text-base md:text-lg leading-relaxed mb-4 md:mb-6">
                         I'm a passionate software developer with a <strong className="text-white">BSc (Hons) Computing</strong> degree
-                        from Islington College, affiliated with London Metropolitan University (Graduated June 2025). With a strong foundation in both
+                        from Islington College, affiliated with London Metropolitan University (Graduated December 2025). With a strong foundation in both
                         frontend and backend development, I specialize in creating scalable, responsive applications that
                         deliver exceptional user experiences.
                     </p>
