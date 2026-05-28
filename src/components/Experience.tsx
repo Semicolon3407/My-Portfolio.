@@ -54,7 +54,7 @@ const Experience = () => {
             title: 'Junior Software Developer',
             company: 'Eydean Inc.',
             type: 'Full-time',
-            startDate: '2025-12',
+            startDate: '2025-07',
             endDate: 'Present',
             location: 'Jhamsikhel, Lalitpur · On-site',
             description: 'As a Junior Full Stack Developer at Eydean Inc., I specialize in Core Development within the MERN stack, focusing on the architectural integrity and server-side efficiency of our web applications. My role involves building the foundational logic and robust back-end systems that power high-scale digital solutions.',
